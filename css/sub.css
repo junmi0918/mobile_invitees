@@ -249,9 +249,12 @@
 #contact .parents_dad .container {
     /* border: 1px solid rgb(41, 147, 196); */
     position: absolute;
-    width: 100%;
-    left: 50%;
+}
+    
 
+#contact .parents_dad .mom {
+    position: absolute;
+    left: 100%;
 
 }
 
@@ -277,6 +280,10 @@
 #contact .parents_dad.two {
     margin-bottom: 200px;
 }
+
+#contact .parents_dad .bank {
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-left: 50%;
+}
    
-
-
