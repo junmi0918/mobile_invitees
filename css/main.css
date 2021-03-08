@@ -1,4 +1,4 @@
-/* 메인 css */
+\/* 메인 css */
 
 * {
 margin: 0;
@@ -160,9 +160,16 @@ color: rgb(0, 0, 0);
 
 /* 위로가기 버튼 */
 
-#contact .top_button div a img {
-  /* border: 2px solid red; */
-  position: relative;
+#contact .top_button a img {
+  /* border: 2px solid rgb(80, 0, 0); */
+  position: absolute;
   top: 200px;
+}
+
+#contact .top_button a {
+  position: relative;
+  width: 100%;
+  margin-left: -10%;
+
 }
   
