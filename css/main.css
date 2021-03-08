@@ -1,4 +1,4 @@
-\/* 메인 css */
+/* 메인 css */
 
 * {
 margin: 0;
@@ -163,7 +163,7 @@ color: rgb(0, 0, 0);
 #contact .top_button a img {
   /* border: 2px solid rgb(80, 0, 0); */
   position: absolute;
-  top: 200px;
+  top: 220px;
 }
 
 #contact .top_button a {
