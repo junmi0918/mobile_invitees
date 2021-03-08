@@ -249,12 +249,9 @@
 #contact .parents_dad .container {
     /* border: 1px solid rgb(41, 147, 196); */
     position: absolute;
-}
-    
+    width: 100%;
+    left: 50%;
 
-#contact .parents_dad .mom {
-    position: absolute;
-    right: -208px;
 
 }
 
